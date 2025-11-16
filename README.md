@@ -1,6 +1,6 @@
 # Tales Umbra
 
-Um prequel de Pale Luna: Terminal Edition
+A prequel of Pale Luna: Echoes Of The Night
 
 ## Instalação
 
@@ -10,4 +10,4 @@ Um prequel de Pale Luna: Terminal Edition
 - Instale ou extraia o o jogo
 - Pronto
 
-## Made by Sad Berry Games
+## Pale Luna DEV
